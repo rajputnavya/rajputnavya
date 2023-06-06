@@ -41,3 +41,25 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=rajputnavya&" alt="r
 
 <p align="center"><img align="center" width = "400"
 src="https://github-readme-stats.vercel.app/api/top-langs?username=rajputnavya&show_icons=true&locale=en&layout=compact" alt="rajputnavya" /></p>
+
+#
+
+<p align="center">&nbsp;<img align="center" width = "500" 
+src="https://github-readme-stats.vercel.app/api?username=rajputnavya&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false" /></p>
+
+<p align="center">&nbsp;<img align="center" width = "500" 
+src="https://github-readme-streak-stats.herokuapp.com/?user=rajputnavya&theme=ayu-mirage&hide_border=false" /></p>
+
+<p align="center">&nbsp;<img align="center" width = "400" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajputnavya&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
+#
+<p align="center">&nbsp;<img align="center" width = "500" 
+src="https://github-readme-stats.vercel.app/api?username=rajputnavya&theme=default&hide_border=false&include_all_commits=false&count_private=false" /></p>
+
+<p align="center">&nbsp;<img align="center" width = "500" 
+src="https://github-readme-streak-stats.herokuapp.com/?user=rajputnavya&theme=default&hide_border=false" /></p>
+
+<p align="center">&nbsp;<img align="center" width = "400" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajputnavya&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></p>
