@@ -1,8 +1,7 @@
 ## 💬 About me: 
-Interest: *Machine Learning*
+<!-- Interest: *Machine Learning*
 
-Preferred Language: *C++*
-
+Preferred Language: *C++* -->
 
 <h3 align="left">🌐 Social Profile:</h3>
 <p align="center">
